@@ -17,6 +17,17 @@ This project allows you to scrape app reviews for [**To The Trenches**](https://
 - `numpy`
 - `pandas`
 
+### Setting up the Project
+It is recommended to create a virtual environment for this project:
+```bash
+python3 -m venv venv
+```
+
+Now we need to activate your newly created virtual environment:
+```bash
+source venv/Scripts/activate
+```
+
 You can easily install the necessary packages using:
 
 ```bash

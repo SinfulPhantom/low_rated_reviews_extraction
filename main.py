@@ -1,5 +1,5 @@
-from scraping import Scraping
-from extraction import Extraction
+from src.scraping import Scraping
+from src.extraction import Extraction
 
 if __name__ == '__main__':
     print("Starting App Review Extraction for To The Trenches...\n")
